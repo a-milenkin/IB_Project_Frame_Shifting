@@ -36,7 +36,7 @@ RNAalifold --color --aln result.aln
 ![Image alt](https://github.com/Alexoflife/chelatase_db_analysis/blob/main/Pseudomonas_SecStr.png)
 
 # Interface task description
-![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/images/blob/main/interface_home.PNG
+![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_home.PNG
 ![Image alt](https://github.com/Alexoflife/chelatase_db_analysis/blob/main/Pseudomonas_SecStr.png)
 
 # References
