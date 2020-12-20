@@ -36,11 +36,13 @@ RNAalifold --color --aln result.aln
 
 # Interface task description
 
-# Интерфейс базы данных
+The database interface looks like this
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_home.PNG)
-# Откроем вкладку c организмами
+
+Let's open the tab with the list of organisms
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_main.PNG)
-# Теперь выберем интересущий нас организм
+
+Now let's choose any organism. For example Delftia acidovorans SPH-1
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_1.PNG)
 
 # References
