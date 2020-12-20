@@ -38,7 +38,7 @@ RNAalifold --color --aln result.aln
 
 Running database-interface
 
-Part of installation instructions was taken from [here](https://github.com/vanya-antonov/django_gtdb2/), but several items is fixed
+Part of installation instructions was taken from [here](https://github.com/vanya-antonov/django_gtdb2/), but several items are fixed.
 ```bash
 # Install blast
 sudo apt-get install ncbi-blast+
