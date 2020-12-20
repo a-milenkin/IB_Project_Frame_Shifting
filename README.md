@@ -45,7 +45,7 @@ Let's open the tab with the list of organisms
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_main.PNG)
 
 Now let's choose any organism. For example Delftia acidovorans SPH-1
-So, we see some information about genes with frameshifing
+So, we see some information about frame shift genes
 
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_1.PNG)
 
