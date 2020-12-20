@@ -61,7 +61,10 @@ The `chlD` gene can function in the composition with cobalt chelotase, synthesiz
  
 For example: cobalt chelotase is encoded in the `cobN` gene. So if `chlH` is next to` cobN`, then the gene is involved in the biochemical pathway responsible for the synthesis of vitamin B12.
 
-In order to make it easier to say where the `chlD` gene will take part, it is necessary to modify the entire database interface so that there are options for visualizing gene locations and also other types of visualizations. At the moment, some of the code has been written. All that remains is to integrate the prepared scripts into the project backend.  
+In order to make it easier to say where the `chlD` gene will take part, it is necessary to modify the entire database interface so that there are options for visualizing gene locations and also other types of visualizations. At the moment, some of the code has been written. 
+
+
+Now all that remains is to integrate the developed code into the backend of the project written in the language - vue.js.
   
 # References
 1. I. Antonov. Two Cobalt Chelatase Subunits Can Be Generated from a Single
