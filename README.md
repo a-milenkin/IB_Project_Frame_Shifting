@@ -49,11 +49,13 @@ So, we see some information about genes with frameshifing
 
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_1.PNG)
 
-This table is not very informative. We will visualize it using special frameworks such as `DNA Features Viewer`
+This table is not very informative. We will visualize it using special frameworks such as `DNA Features Viewer`.
 
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/Results.PNG)
 
-
+Great! Now it is easier to perceive!
+ 
+  
 # References
 1. I. Antonov. Two Cobalt Chelatase Subunits Can Be Generated from a Single
 chlD Gene via Programed Frameshifting // Molecular Biology and Evolution, 2020, V. 37, p. 2268-2278.
