@@ -79,7 +79,7 @@ cp -v /home/gtdb/data/local_settings.py  mysite/
 ### Frontend launch  ###
 # Go to the folder 'frontend'
 cd ../../
-cd frontend
+cd frontend/
 
 npm install
 
