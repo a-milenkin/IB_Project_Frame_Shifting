@@ -37,13 +37,22 @@ RNAalifold --color --aln result.aln
 # Interface task description
 
 The database interface looks like this
+
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_home.PNG)
 
 Let's open the tab with the list of organisms
+
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_main.PNG)
 
 Now let's choose any organism. For example Delftia acidovorans SPH-1
+So, we see some information about genes with frameshifing
+
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_1.PNG)
+
+This table is not very informative. We will visualize it using special frameworks such as `DNA Features Viewer`
+
+![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/Results.PNG)
+
 
 # References
 1. I. Antonov. Two Cobalt Chelatase Subunits Can Be Generated from a Single
