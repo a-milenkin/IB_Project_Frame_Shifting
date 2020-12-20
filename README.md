@@ -55,6 +55,13 @@ This table is not very informative. We will visualize it using special framework
 
 Great! Now it is easier to perceive!
  
+This table visualization is much more useful and here's why:
+
+The `chlD` gene can function in the composition with cobalt chelotase, synthesizing B12, and in the composition of magnesium chelotase, synthesizing chlorophyll. It turns out that `chlD` is a kind of" universal "gene - depending on where it is located, one can say in what biochemical pathway it participates.
+ 
+For example: cobalt chelotase is encoded in the `cobN` gene. So if `chlH` is next to` cobN`, then the gene is involved in the biochemical pathway responsible for the synthesis of vitamin B12.
+
+In order to make it easier to say where the `chlD` gene will take part, it is necessary to modify the entire database interface so that there are options for visualizing gene locations and also other types of visualizations. At the moment, some of the code has been written. All that remains is to integrate the prepared scripts into the project backend.  
   
 # References
 1. I. Antonov. Two Cobalt Chelatase Subunits Can Be Generated from a Single
