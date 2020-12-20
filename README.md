@@ -32,12 +32,16 @@ RNAalifold --color --aln result.aln
 ```
 # Alignment ant secondary structure prediction examples
 ![Image alt](https://github.com/Alexoflife/chelatase_db_analysis/blob/main/Pseudomonas_cons_seq.png)
-
 ![Image alt](https://github.com/Alexoflife/chelatase_db_analysis/blob/main/Pseudomonas_SecStr.png)
 
 # Interface task description
-![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_home.PNG
-![Image alt](https://github.com/Alexoflife/chelatase_db_analysis/blob/main/Pseudomonas_SecStr.png)
+
+# Интерфейс базы данных
+![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_home.PNG)
+# Откроем вкладку c организмами
+![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_main.PNG)
+# Теперь выберем интересущий нас организм
+![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_1.PNG)
 
 # References
 1. I. Antonov. Two Cobalt Chelatase Subunits Can Be Generated from a Single
