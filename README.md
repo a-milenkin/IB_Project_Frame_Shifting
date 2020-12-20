@@ -38,7 +38,7 @@ RNAalifold --color --aln result.aln
 
 Running database-interface
 
-Part of installation instructions was taken from https://github.com/vanya-antonov/django_gtdb2
+Part of installation instructions was taken from [https://github.com/vanya-antonov/django_gtdb2][here], but several items is fixed
 ```bash
 # Install blast
 sudo apt-get install ncbi-blast+
@@ -69,15 +69,15 @@ pip install -r requirements.txt
 # Copy and edit the local_settings.py
 cp -v /home/gtdb/data/local_settings.py  mysite/
 
-### Backend
+### Backend launch ###
 # Run server with external access:
 # ./manage.py runserver 0.0.0.0:8000 & 
 # Run server at: http://127.0.0.1:8000/chelatase_db/
 ./manage.py runserver $  
 
 
-# Frontend
-# go to folder 'frontend'
+### Frontend launch  ###
+# Go to the folder 'frontend'
 cd ../../
 cd frontend
 
