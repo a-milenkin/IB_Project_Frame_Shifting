@@ -40,3 +40,11 @@ RNAalifold --color --aln result.aln
 chlD Gene via Programed Frameshifting // Molecular Biology and Evolution, 2020, V. 37, p. 2268-2278.
 2. S. Meydan et al. Programmed Ribosomal Frameshifting Generates a Copper Transporter and a Copper Chaperone from the Same Gene // Mol Cell. 2017, V. 65, p. 207-219.
 3. I. Antonov et al. Identification of the nature of reading frame transitions observed in prokaryotic genomes // Nucleic Acids Res. 2013, V. 41, p. 6514–6530.
+
+
+
+
+
+
+
+
