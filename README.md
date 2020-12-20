@@ -51,7 +51,7 @@ So, we see some information about genes with frameshifing
 
 This table is not very informative. We will visualize it using special frameworks such as `DNA Features Viewer`.
 
-![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/Results.PNG)
+![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_results.PNG)
 
 Great! Now it is easier to perceive!
  
