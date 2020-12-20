@@ -36,6 +36,62 @@ RNAalifold --color --aln result.aln
 
 # Interface task description
 
+Running database-interface
+
+Part of installation instructions was taken from https://github.com/vanya-antonov/django_gtdb2
+```bash
+# Install blast
+sudo apt-get install ncbi-blast+
+
+git clone https://vanya-antonov@github.com/vanya-antonov/django_gtdb2
+cd django_gtdb2
+
+# scp ivan@10.0.1.254:~/_my/github/django_gtdb2/mysite/local_settings.py  mysite/
+# - OR -
+# scp -P 22194 ivan@83.149.211.146:~/_my/github/django_gtdb2/mysite/local_settings.py  mysite/
+
+python3 -m venv  venv
+source venv/bin/activate
+
+# https://stackoverflow.com/a/44862371/310453
+pip install --upgrade pip
+pip install wheel
+
+# On Ubuntu for mysqlclient:  https://stackoverflow.com/a/7475296/310453
+sudo apt-get install libmysqlclient-dev
+
+# On Ubuntu for numpy: https://stackoverflow.com/a/24892867/310453
+sudo apt-get install python3.8-dev
+
+cd django
+pip install -r requirements.txt
+
+# Copy and edit the local_settings.py
+cp -v /home/gtdb/data/local_settings.py  mysite/
+
+### Backend
+# Run server with external access:
+# ./manage.py runserver 0.0.0.0:8000 & 
+# Run server at: http://127.0.0.1:8000/chelatase_db/
+./manage.py runserver $  
+
+
+# Frontend
+# go to folder 'frontend'
+cd ../../
+cd frontend
+
+npm install
+
+#Build project
+npm run serve
+
+# Open server at: http://127.0.0.1:8000/chelatase_db/ 
+# Enjoy it!
+
+```
+
+
 The database interface looks like this
 
 ![Image alt](https://github.com/a-milenkin/IB_Project_Frame_Shifting/blob/main/images/interface_home.PNG)
